@@ -9,7 +9,7 @@ You can find everything you need about the Certification on its official [page](
 ### Cluster Setup – 15%
 
 Topic
-Use Network security policies to restrict cluster-level access
+- Use Network security policies to restrict cluster-level access
 
 Resources
 - [Getting Started with Cilium - Lab 🥼](https://isovalent.com/labs/cilium-getting-started/?journey=security)
@@ -28,7 +28,7 @@ Resources
 ### Minimize Microservice Vulnerabilities Domain – 20%
 
 Topic
-Implement Pod-to-Pod encryption using (Cilium, Istio)
+ - Implement Pod-to-Pod encryption using (Cilium, Istio)
 
 Resources 
 - [Transparent Encryption Usecase 📖](https://cilium.io/use-cases/transparent-encryption/)
