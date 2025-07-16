@@ -1,17 +1,19 @@
 # Certified Kubernetes Security Specialist Study Guide for Cilium 
 
-
 Recent updates to the CNCF's  Certified Kubernetes Security Specialist (CKS) Exam introduced Cilium for certain domains and competencies. This study guide aims to help the candidates prepare for the domain and competencies specific to Cilium in the CKS exam. 
 
 ## About the Certification
+
 You can find everything you need about the Certification on its official [page](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/).
 
 ### Cluster Setup – 15%
 
 Topic
+
 - Use Network security policies to restrict cluster-level access
 
 Resources
+
 - [Getting Started with Cilium - Lab 🥼](https://isovalent.com/labs/cilium-getting-started/?journey=security)
 - [Identity Based - Cilium Docs 📖](https://docs.cilium.io/en/stable/security/network/identity/)
 - [Network Policy Use Cases 📖](https://cilium.io/use-cases/network-policy/)
@@ -24,13 +26,14 @@ Resources
 - [Cilium Host Firewall🥼](https://isovalent.com/labs/cilium-host-firewall/?journey=security)
 - [Using Kubernetes Constructs In Policy📖](https://docs.cilium.io/en/latest/security/policy/kubernetes/)
 
-
 ### Minimize Microservice Vulnerabilities Domain – 20%
 
 Topic
- - Implement Pod-to-Pod encryption using (Cilium, Istio)
 
-Resources 
+- Implement Pod-to-Pod encryption using (Cilium, Istio)
+
+Resources
+
 - [Transparent Encryption Usecase 📖](https://cilium.io/use-cases/transparent-encryption/)
 - [Tutorial: Transparent Encryption with IPsec and WireGuard](https://isovalent.com/blog/post/tutorial-transparent-encryption-with-ipsec-and-wireguard/)
 - [eCHO Episode 79: Transparent Encryption with IPsec and WireGuard📺](https://www.youtube.com/watch?v=vj7M-t9MK6s)
