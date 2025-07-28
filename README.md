@@ -1,4 +1,7 @@
-# Certified Kubernetes Security Specialist Study Guide for Cilium 
+# Certified Kubernetes Security Specialist Study Guide for Cilium
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](LICENSE)
+![audit ebee](files/audit-bee.png)
 
 Recent updates to the CNCF's  Certified Kubernetes Security Specialist (CKS) Exam introduced Cilium for certain domains and competencies. This study guide aims to help the candidates prepare for the domain and competencies specific to Cilium in the CKS exam. 
 
